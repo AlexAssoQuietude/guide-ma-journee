@@ -1,5 +1,6 @@
-<img width="1536" height="1024" alt="Guide ma journée " src="https://github.com/user-attachments/assets/fa73a2cb-e6a9-4bbd-98ab-ced67f3135d1" />
 # Guide ma journée
+
+<img width="1536" height="1024" alt="Guide ma journée " src="https://github.com/user-attachments/assets/fa73a2cb-e6a9-4bbd-98ab-ced67f3135d1" />
 
 *Un assistant créé par Alexandre · Association Quiétude*
 
